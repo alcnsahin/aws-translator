@@ -1,6 +1,6 @@
 # aws-translator
 
-Before run the script fill following parameters on index.js.
+Before running the script fill following parameters on index.js.
 
 
 accessKeyId: 'your-access-key',
