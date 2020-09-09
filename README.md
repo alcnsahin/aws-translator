@@ -11,4 +11,4 @@ region: 'region'
 
 
 Please note that aws translator could not translate html text. 
-If you need to translate html content you can use google cloud translator api.
+If you need to translate html content you can use [google cloud translator api](https://github.com/alcnsahin/google-translator-api-example).
